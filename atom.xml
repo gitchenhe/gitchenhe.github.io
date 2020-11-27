@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>云笔记</title>
+  
+  <subtitle>笔记</subtitle>
+  <link href="http://gitchenhe.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://gitchenhe.github.io/"/>
+  <updated>2020-11-27T07:47:47.554Z</updated>
+  <id>http://gitchenhe.github.io/</id>
+  
+  <author>
+    <name>gitchenhe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java基础</title>
+    <link href="http://gitchenhe.github.io/2020/11/27/1.%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://gitchenhe.github.io/2020/11/27/1.%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2020-11-27T06:03:25.533Z</published>
+    <updated>2020-11-27T07:47:47.554Z</updated>
+    
+    <content type="html"><![CDATA[<p>重新温习Java基础知识</p><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h3 id="JVM内存结构"><a href="#JVM内存结构" class="headerlink" title="JVM内存结构"></a>JVM内存结构</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">JVM</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;重新温习Java基础知识&lt;/p&gt;
+&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;h3 id=&quot;JVM内存结构&quot;&gt;&lt;a href=&quot;#JVM内存结构&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    <category term="重温Java" scheme="http://gitchenhe.github.io/categories/%E9%87%8D%E6%B8%A9Java/"/>
+    
+    
+    <category term="基础知识" scheme="http://gitchenhe.github.io/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="java" scheme="http://gitchenhe.github.io/tags/java/"/>
+    
+  </entry>
+  
+</feed>
